@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mysdirection]]></title>
         <description><![CDATA[Mysdirection]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mysdirection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 01:32:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 01:41:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mysdirection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Honest Trailers - Deadpool]]></title>
+            <description><![CDATA[<article><h1>Honest Trailers - Deadpool</h1><p>Want to know more about how we made this Honest Trailer? Join us for Honest Commentaries LIVE at 12pm PDT ►►http://www.screenjunkies.com/video/honest-commentary-151-deadpool-3019489 You asked for a Deadpool Honest Trailer, and BOY did we deliver. You're welcome in advance you ****** ******* **** *******!</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_qIRtFE6aIc</link>
+            <guid isPermaLink="false">fbfc8bd7-d2cd-4c88-b7f4-c9087543e7c1</guid>
+            <pubDate>Wed, 11 May 2016 01:40:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello, world. It's Steve. </p>]]></description>
-            <link>undefinedhello-world-its-steve/index.html</link>
+            <link>https://thegrid.ai/mysdirection/hello-world-its-steve/index.html</link>
             <guid isPermaLink="false">5c551a6f-41ae-4e0c-b7d9-da9d4f48c2e5</guid>
             <pubDate>Wed, 11 May 2016 01:32:10 GMT</pubDate>
         </item>
