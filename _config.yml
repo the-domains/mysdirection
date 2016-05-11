@@ -1,0 +1,28 @@
+name: Mysdirection
+favicon: null
+layout_spectrum: 0.6175816501490772
+typography_spectrum: 0.8110891671385616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9591075184289366
+  lightness: 0.9123420920222998
+  saturation: 0.7226399332284927
+  rhythmicContrast: 0.19296053308062255
+purpose: []
